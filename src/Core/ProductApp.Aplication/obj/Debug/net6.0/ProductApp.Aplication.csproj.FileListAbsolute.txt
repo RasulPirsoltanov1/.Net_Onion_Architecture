@@ -1,0 +1,15 @@
+C:\Users\resul\OneDrive\Masaüstü\Projects\ProductApp\src\Core\ProductApp.Aplication\bin\Debug\net6.0\ProductApp.Aplication.deps.json
+C:\Users\resul\OneDrive\Masaüstü\Projects\ProductApp\src\Core\ProductApp.Aplication\bin\Debug\net6.0\ProductApp.Aplication.dll
+C:\Users\resul\OneDrive\Masaüstü\Projects\ProductApp\src\Core\ProductApp.Aplication\bin\Debug\net6.0\ProductApp.Aplication.pdb
+C:\Users\resul\OneDrive\Masaüstü\Projects\ProductApp\src\Core\ProductApp.Aplication\bin\Debug\net6.0\ProductApp.Domain.dll
+C:\Users\resul\OneDrive\Masaüstü\Projects\ProductApp\src\Core\ProductApp.Aplication\bin\Debug\net6.0\ProductApp.Domain.pdb
+C:\Users\resul\OneDrive\Masaüstü\Projects\ProductApp\src\Core\ProductApp.Aplication\obj\Debug\net6.0\ProductApp.Aplication.csproj.AssemblyReference.cache
+C:\Users\resul\OneDrive\Masaüstü\Projects\ProductApp\src\Core\ProductApp.Aplication\obj\Debug\net6.0\ProductApp.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\OneDrive\Masaüstü\Projects\ProductApp\src\Core\ProductApp.Aplication\obj\Debug\net6.0\ProductApp.Aplication.AssemblyInfoInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\Projects\ProductApp\src\Core\ProductApp.Aplication\obj\Debug\net6.0\ProductApp.Aplication.AssemblyInfo.cs
+C:\Users\resul\OneDrive\Masaüstü\Projects\ProductApp\src\Core\ProductApp.Aplication\obj\Debug\net6.0\ProductApp.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\Projects\ProductApp\src\Core\ProductApp.Aplication\obj\Debug\net6.0\ProductApp.Aplication.csproj.CopyComplete
+C:\Users\resul\OneDrive\Masaüstü\Projects\ProductApp\src\Core\ProductApp.Aplication\obj\Debug\net6.0\ProductApp.Aplication.dll
+C:\Users\resul\OneDrive\Masaüstü\Projects\ProductApp\src\Core\ProductApp.Aplication\obj\Debug\net6.0\refint\ProductApp.Aplication.dll
+C:\Users\resul\OneDrive\Masaüstü\Projects\ProductApp\src\Core\ProductApp.Aplication\obj\Debug\net6.0\ProductApp.Aplication.pdb
+C:\Users\resul\OneDrive\Masaüstü\Projects\ProductApp\src\Core\ProductApp.Aplication\obj\Debug\net6.0\ref\ProductApp.Aplication.dll
